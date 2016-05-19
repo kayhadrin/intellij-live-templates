@@ -1,5 +1,5 @@
 # intellij-live-templates
-My intelliJ live templates
+My intelliJ live templates.
 
 ## Jasmine
 
